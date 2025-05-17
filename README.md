@@ -2,9 +2,9 @@
 
 This supplementary material accompanies the article titled **"Integrated Analysis of the Mine-to-Plant Interface Using Discrete Event Simulation"**, submitted to **SBPO 2025**.
 
-The paper presents an integrated analysis of the **supply chain of a Brazilian mining company**, with a specific focus on the **mine-to-plant interface**, where **discrete flows** (trucks) interact with **continuous flows** (crushing processes). The system Activity Cycle Diagram is presented below:
+The paper presents an integrated analysis of the **supply chain of a Brazilian mining company**, with a specific focus on the **mine-to-plant interface**, where **discrete flows** (trucks) interact with **continuous flows** (crushing processes). 
 
-![Figure 1](https://github.com/joaoflavioufmg/DES-Mine-to-Plant-Interface/blob/main/figs/DCA.png "ACD of the Mine-to-Plant Interface operations")
+![Figure 1](https://github.com/joaoflavioufmg/DES-Mine-to-Plant-Interface/blob/main/figs/interface.png "Mine-to-Plant Interface")
 
 ### Summary of the Study
 
@@ -13,6 +13,13 @@ The main contribution of this work lies in the **combination of an analytical me
 - Investigate **variability propagation** throughout the system.
 - Propose **operational changes** that improve overall performance.
 - Test solutions **safely** in a virtual environment before implementation.
+
+- ![Figure 2](https://github.com/joaoflavioufmg/DES-Mine-to-Plant-Interface/blob/main/figs/pit.png "Open pit and Mine-to-Plant operations")
+
+
+- The system Activity Cycle Diagram is presented below:
+
+![Figure 3](https://github.com/joaoflavioufmg/DES-Mine-to-Plant-Interface/blob/main/figs/DCA.png "ACD of the Mine-to-Plant Interface operations")
 
 Three scenarios were analyzed:
 
