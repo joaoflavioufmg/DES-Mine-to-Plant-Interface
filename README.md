@@ -2,7 +2,9 @@
 
 This supplementary material accompanies the article titled **"Integrated Analysis of the Mine-to-Plant Interface Using Discrete Event Simulation"**, submitted to **SBPO 2025**.
 
-The paper presents an integrated analysis of the **supply chain of a Brazilian mining company**, with a specific focus on the **mine-to-plant interface**, where **discrete flows** (trucks) interact with **continuous flows** (crushing processes).
+The paper presents an integrated analysis of the **supply chain of a Brazilian mining company**, with a specific focus on the **mine-to-plant interface**, where **discrete flows** (trucks) interact with **continuous flows** (crushing processes). The system Activity Cycle Diagram is presented below:
+
+![Figure 1](https://github.com/joaoflavioufmg/mri/blob/main/figs/DCA.png "ACD of the Mine-to-Plant Interface operations")
 
 ### Summary of the Study
 
